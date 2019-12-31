@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #4279e9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+/* .container{
+  color:lightgreen;
+} */
+/* .container{
+  background-image: linear-gradient(rgb(0, 140, 255), rgb(0, 247, 255), rgb(0, 119, 128));
+} */
+.card {
+  background-image: linear-gradient(rgb(0, 162, 255), rgb(47, 201, 221), rgb(0, 128, 117));
+  -webkit-box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.card-header {
+  /* background-color:linear-gradient(rgb(0, 238, 255), rgb(47, 215, 221), rgb(0, 128, 85)); */
+  /* opacity: 0.8; */
+  background-color:
+
+
+}
+
+body {
+  margin: auto;
+  max-width: fit-content;
+  background-color: rgb(32, 112, 178);
+  font-family: sans-serif;
+  margin-top: 15px;
+}
+
+.logo {
+  /* background-color: black; */
+  margin: auto;
+  width: 25%;
+  margin-top: 20px;
+  margin-left: 230px;
+
+}
+
+.footer {
+  background-color: blueviolet;
+}
+
+p {
+  margin: auto;
+  margin-left: 230px;
+  text-decoration-color: crimson;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.site {
+  justify-content: flex-end;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-left: 230px;
+  color: rebeccapurple;
+  margin-top: 50px;
+
+}
