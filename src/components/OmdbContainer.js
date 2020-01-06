@@ -80,11 +80,11 @@ class OmdbContainer extends Component {
           </Col> */}
           <Col size="md-8">
             {/* <Card heading="footer"> */}
-              <img src="../img/themdb.png" class="logo" alt="movie logo" ></img>
+              {/* <img src="../img/themdb.png" class="logo" alt="movie logo" ></img>
               <p>Created by <span>Codifyme</span></p>
               
               <a href="https://www.marvel.com/movies" class="site" alt="site-link">Marvel Official Website</a>
-              
+               */}
            
             {/* </Card> */}
           </Col>
