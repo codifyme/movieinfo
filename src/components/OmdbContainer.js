@@ -67,8 +67,6 @@ class OmdbContainer extends Component {
                 value={this.state.search}
                 handleInputChange={this.handleInputChange}
                 handleFormSubmit={this.handleFormSubmit}
-                
-                
               />
             </Card>
           </Col>
